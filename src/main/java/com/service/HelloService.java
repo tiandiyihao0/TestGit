@@ -5,5 +5,6 @@ public class HelloService {
 		System.out.println("hello service");
 		System.out.println("hello hotfix");
 		System.out.println("hello master_conflict");
+		System.out.println("hello hotfix_conflict");
 	}
 }
