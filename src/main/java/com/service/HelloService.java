@@ -9,5 +9,6 @@ public class HelloService {
 		
 		System.out.println("=================");
 		System.out.println("hello east");
+		System.out.println("hello lhuc");
 	}
 }
