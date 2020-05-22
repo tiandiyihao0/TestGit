@@ -8,5 +8,6 @@ public class HelloService {
 		System.out.println("hello hotfix_conflict");
 		
 		System.out.println("=================");
+		System.out.println("hello east");
 	}
 }
